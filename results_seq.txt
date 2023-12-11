@@ -1,0 +1,73 @@
+
+--------------
+Running tests on node601.pi.sjtu.edu.cn
+
+--------------
+
+**********************  Scene : random-10000  **********************
+
+5 Iterations 
+Sequential:
+
+Correctness passed!
+
+Total Time :                             0.583866s                                
+Total Build Tree Time :                  0.013977s                                
+
+
+**********************  Scene : random-50000  **********************
+
+5 Iterations 
+Sequential:
+
+Correctness passed!
+
+Total Time :                             11.048640s                               
+Total Build Tree Time :                  0.078203s                                
+
+
+**********************  Scene : corner-10000  **********************
+
+5 Iterations 
+Sequential:
+
+Correctness passed!
+
+Total Time :                             0.847662s                                
+Total Build Tree Time :                  0.012751s                                
+
+
+**********************  Scene : corner-50000  **********************
+
+5 Iterations 
+Sequential:
+
+Correctness passed!
+
+Total Time :                             17.717161s                               
+Total Build Tree Time :                  0.073843s                                
+
+
+**********************  Scene : sparse-50000  **********************
+
+50 Iterations 
+Sequential:
+
+Correctness passed!
+
+Total Time :                             2.856072s                                
+Total Build Tree Time :                  0.766356s                                
+
+
+**********************  Scene : sparse-200000  **********************
+
+50 Iterations 
+Sequential:
+
+Correctness passed!
+
+Total Time :                             13.309875s                               
+Total Build Tree Time :                  3.372773s                                
+
+
+CORRECT!!  - SCORE: 10 pts

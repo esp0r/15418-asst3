@@ -1,3 +1,9 @@
 reference-init.txt
 out.txt
 nbody-release
+*.bmp
+.vscode/**
+logs/**
+compile_commands.json
+nbody-debug
+.vscode/settings.json
